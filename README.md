@@ -156,3 +156,4 @@ To learn more about Gulp and it's role in the build process, check out the [docu
 ### Animation
 
 This site uses an animation library called [AOS](http://michalsnik.github.io/aos/) to add animation on scroll. Animations are added in the HTML with the `data-aos` attributes.
+#scl

@@ -5,12 +5,12 @@ intro:
   logo: assets/logo-white.svg
   label: Welcome to the
   scl_image: assets/scl.png
-  date: Est. 2014
-  location: Menlo Park, CA
+  date: EST. 2018
+  location: Planet Earth
   details:
-  - label: Who
-    delay: 400
-    copy: "[James Buckhouse](https://twitter.com/buckhouse), [Sue Kim](http://linkedin.com/in/designkim),
+  - label: WHY
+    delay: 500
+    copy: "[Some People](https://twitter.com/buckhouse), [Sue Kim](http://linkedin.com/in/designkim),
       & [Jules Forrest](https://twitter.com/julesforrest)"
   - label: What
     delay: 650

@@ -1,6 +1,6 @@
 ---
 title: Jen Wibowo
-date: 2016-01-04 00:00:00 Z
+date: 2016-01-04 00:00:00 +0000
 position: 0
 first_name: Jen
 last_name: Wibowo

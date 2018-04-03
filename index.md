@@ -4,7 +4,7 @@ layout: homepage
 intro:
   logo: "/uploads/2018/04/03/9e69357492_screen-shot-20131125-at-14-45-54-0.png"
   label: Welcome to the
-  scl_image: assets/scl.png
+  scl_image: "/uploads/2018/04/03/9e69357492_screen-shot-20131125-at-14-45-54-0.png"
   date: EST. 2018
   location: Planet Earth
   details:

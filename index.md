@@ -10,7 +10,7 @@ intro:
   details:
   - label: WHY
     delay: 500
-    copy: "[Some People](https://twitter.com/buckhouse), [Sue Kim](http://linkedin.com/in/designkim),
+    copy: "[Some People](https://twitter.com/abc), [Sue Kim](http://linkedin.com/in/designkim),
       & [Jules Forrest](https://twitter.com/julesforrest)"
   - label: What
     delay: 650

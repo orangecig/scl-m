@@ -2,7 +2,7 @@
 title: Welcome
 layout: homepage
 intro:
-  logo: assets/logo-white.svg
+  logo: "/uploads/2018/04/03/9e69357492_screen-shot-20131125-at-14-45-54-0.png"
   label: Welcome to the
   scl_image: assets/scl.png
   date: EST. 2018
@@ -10,8 +10,8 @@ intro:
   details:
   - label: WHY
     delay: 500
-    copy: "[Some People](https://twitter.com/abc), [Sue Kim](http://linkedin.com/in/designkim),
-      & [Jules Forrest](https://twitter.com/julesforrest)"
+    copy: "[Some People](https://twitter.com/abc), [Some Where](http://linkedin.com/in/abc),
+      & [Some How](https://twitter.com/abc)"
   - label: What
     delay: 650
     copy: Design products & experiences

@@ -1,0 +1,47 @@
+---
+pages:
+- _logos/unity.md
+- _logos/tunein.md
+- _logos/stripe.md
+- _logos/plangrid.md
+- _logos/percolate.md
+- _logos/github.md
+- _logos/evernote.md
+- _logos/doordash.md
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: 
+- name: link
+  label: Link
+  type: file
+  hidden: false
+  default: 
+- name: class
+  label: Class
+  type: text
+  hidden: false
+  default: 
+- name: storylink
+  label: Storylink
+  type: text
+  hidden: false
+  default: 
+- name: delay
+  label: Delay
+  type: text
+  hidden: false
+  default: 
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: default

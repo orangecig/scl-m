@@ -1,0 +1,96 @@
+---
+pages:
+- _alumni/yvonne.md
+- _alumni/samantha.md
+- _alumni/kat.md
+- _alumni/jon.md
+- _alumni/jessie.md
+- _alumni/jessica.md
+- _alumni/jen.md
+- _alumni/coleen.md
+- _alumni/ash.md
+- _alumni/andreas.md
+- _alumni/alice.md
+- _alumni/alex.md
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: 
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: position
+  label: Position
+  type: text
+  hidden: false
+  default: ''
+- name: first_name
+  label: First name
+  type: text
+  hidden: false
+  default: 
+- name: last_name
+  label: Last name
+  type: text
+  hidden: false
+  default: 
+- name: class
+  label: Class
+  type: text
+  hidden: false
+  default: 
+- name: company
+  label: Company
+  type: text
+  hidden: false
+  default: 
+- name: job_title
+  label: Job title
+  type: text
+  hidden: false
+  default: 
+- name: twitter
+  label: Twitter
+  type: text
+  hidden: false
+  default: ''
+- name: website
+  label: Website
+  type: text
+  hidden: false
+  default: 
+- name: linkedin
+  label: Linkedin
+  type: text
+  hidden: false
+  default: 
+- name: email
+  label: Email
+  type: text
+  hidden: false
+  default: 
+- name: dribbble
+  label: Dribbble
+  type: text
+  hidden: false
+  default: 
+- name: github
+  label: Github
+  type: text
+  hidden: false
+  default: 
+- name: medium
+  label: Medium
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: default

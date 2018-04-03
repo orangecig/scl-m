@@ -1,0 +1,45 @@
+---
+pages:
+- _jobs/viewall.md
+- _jobs/thumbtack.md
+- _jobs/strava.md
+- _jobs/instacart.md
+- _jobs/eventbrite.md
+- _jobs/dropbox.md
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: job_title
+  label: Job title
+  type: text
+  hidden: false
+  default: 
+- name: link
+  label: Link
+  type: text
+  hidden: false
+  default: 
+- name: company
+  label: Company
+  type: text
+  hidden: false
+  default: 
+- name: order
+  label: Order
+  type: text
+  hidden: false
+  default: 
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: default

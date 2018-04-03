@@ -24,7 +24,8 @@ intro:
     copy: Now. Not tomorrow.
   - label: Why
     delay: 1400
-    copy: To help the daring ~~build~~ design legendary companies.
+    copy: Overloaded by ~~Internet~~ content is diluted, information is mislead, design
+      is the only way to make life more meaningful.
 process:
   label: Here's how
   headline: The Sequoia Creative Lab employs a full-process approach to solving design

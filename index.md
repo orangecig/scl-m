@@ -21,7 +21,7 @@ intro:
       together. '
   - label: When
     delay: 1150
-    copy: During pivotal company moments
+    copy: Now. Not tomorrow.
   - label: Why
     delay: 1400
     copy: To help the daring ~~build~~ design legendary companies.

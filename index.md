@@ -15,9 +15,10 @@ intro:
   - label: What
     delay: 650
     copy: Design products & experiences
-  - label: Where
+  - label: How
     delay: 900
-    copy: At [Planet Mars](https://google.com) & our portfolio companies
+    copy: 'At [Planet Mars](https://google.com) & Design needs revamp. Designing design
+      together. '
   - label: When
     delay: 1150
     copy: During pivotal company moments
